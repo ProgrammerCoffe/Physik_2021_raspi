@@ -1,8 +1,7 @@
 #   Import
 import threading
-import RPi.GPIO as GPIO
 import time
-
+#import RPi.GPIO as GPIO
 
 #   useful comands
 time.sleep(0.2)
@@ -15,4 +14,4 @@ time.sleep(0.2)
 
 
 #   Ende
-GPIO.cleanup()
+#GPIO.cleanup()

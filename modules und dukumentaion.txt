@@ -1,0 +1,16 @@
+
+Python Module:
+
+index:  https://docs.python.org/3/py-modindex.html
+
+  https://docs.python.org/3/library/codecs.html#module-codecs
+  https://docs.python.org/3/library/contextvars.html#module-contextvars
+  https://docs.python.org/3/library/cmd.html#module-cmd
+  https://docs.python.org/3/library/cmath.html#module-cmath
+  https://docs.python.org/3/library/builtins.html#module-builtins
+  https://docs.python.org/3/library/calendar.html#module-calendar
+  https://docs.python.org/3/library/threading.html#module-threading
+  https://www.google.com/search?channel=trow5&client=firefox-b-d&q=python+gpio+module
+  
+raspi_pinout:
+https://www.etechnophiles.com/wp-content/uploads/2020/12/Raspberry-Pi-3-B-Pinout-in-detail.jpg

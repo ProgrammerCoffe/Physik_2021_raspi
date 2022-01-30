@@ -1,4 +1,5 @@
 #   Import
+print ("safi ist fett")
 import threading
 import time
 #import RPi.GPIO as GPIO
